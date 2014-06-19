@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "A new blog..."
+date:   2014-06-19 12:16:57
+categories: blog meta
+---
+
 # A new blog...
 
 Oh my god another blog. Except this time, it's [hosted on GitHub](https://github.com/JakeHendy/jakehendy.github.io) and I'm posting this on GitHub. Heh, I'll edit in a minute...
