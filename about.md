@@ -3,28 +3,34 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! You're checking out my about page. That's good right? Right... yeah. Right!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+# Who are you?
+Me, I'm Jake Hendy. I'm 18 and live in Exeter, United Kingdom. I can code in a myriad of languages,
+but by day I use Java, HTML, CSS and JavaScript. I started off with C# and I'm learning Objective-C.
 
-There are currently two themes built on Poole:
+I can also make some pixels dance to my tune if the situation calls for it. I'd like to do more of this too!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Outside of my day job I play plenty of games, hang out with friends, attend many [Les Mills](http://www.lesmills.com) classes
+and fight crime in a very snazzy cape. Okay, that last one was a lie. I don't have a cape.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+# This site looks familiar
+Yeah it's an awesome theme called [Lanyon](http://lanyon.getpoole.com) from [Mark Otto](https://twitter.com/mdo).
+Perhaps in the future I'll write my own, but for now I really like this one.
 
-## Setup
+# What games do you play?!
+You, you asked. Alright. Well...
 
-Some fun facts about the setup of this project include:
+* Counter Strike: Global Offensive
+* Battlefield 4
+* Minecraft
+    * Check out The Mindcrack Crack Pack. Great fun, great fun.
+* Watch Dogs
+* League of Legends
+* Something else that's probably a flash in a pan. Who knows.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+# Cool, can I come stalk you some place?
+Well, if you insist. My twitter is [@JakeHendy](https://twitter.com/JakeHendy),
+my Steam name is Fluxi[E] (don't ask), my Origin name is MrJakeHendy, my GitHub
+account is [JakeHendy](https://www.github.com/JakeHendy) too. Although I don't
+push much out to GitHub at the moment.
