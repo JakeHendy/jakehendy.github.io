@@ -1,6 +1,5 @@
-## Blog
+## Jake's blog content
 Copyright (c) 2014 Jake Hendy
-
 
 You wanna use something from my blog? That's great, please talk to me first! :)
 
