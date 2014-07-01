@@ -1,4 +1,9 @@
-# Released under MIT License
+## Blog
+Copyright (c) 2014 Jake Hendy
+
+You wanna use something from my blog? That's great, please talk to me first! :)
+
+## Lanyon Released under MIT License
 
 Copyright (c) 2014 Mark Otto.
 
