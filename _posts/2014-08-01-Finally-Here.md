@@ -1,7 +1,9 @@
 ---
-layout:post
+layout: post
 Title: We're finally here...
 ---
+
+# We are here people! 
 
 After a month I've finally got my blog public. After some DNS woes &mdash; no I totally did not knock out my emails for 3 days before realising &mdash; and sadly having to move some content away from MediaTemple, plus some Google Webmaster Tool work, it's live. I should start appearing towards the top of search results now too, as my site is accessible at `jakehendy.com` and `www.jakehendy.com`. That'll be nice.
 
