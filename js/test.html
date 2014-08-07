@@ -1,0 +1,23 @@
+<script>
+var logStore = [],
+    shouldUseConsole = false,
+    log = function(message, code, level) {
+        var now = new Date(),
+        level = level.toLowerCase();
+        if(shouldUseConsole) {
+            if(typeof console[level] !== "undefined") {
+                console[level](message);
+            }
+        }
+        logStore.push(now + "|" + (now.getTimezoneOffset() % 60) + "|" + level + "|" + code + "|WTF|0.5|||Chrome|Client" + message);
+    },
+    _ii = 0,
+    _iiLen = 1000;
+for(_ii; _ii < _iiLen; _ii++) {
+    log("Message #" + _ii, Math.floor(Math.random() * _ii * 10), (_ii % 2 ? "error": "debug"));
+}
+
+window.logStore = logStore;
+
+alert("loop finished");
+</script>
