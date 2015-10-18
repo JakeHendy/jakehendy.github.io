@@ -2,8 +2,7 @@
 layout: page
 title: About
 ---
-
-Hey there! You're checking out my about page. That's good right? Right... yeah. Right!
+Hello! Do you have a few questions? Okay, I'll try answer some!
 
 # Who are you?
 Me, I'm Jake Hendy. I'm 20 and live in Exeter, United Kingdom. I can code in a myriad of languages,
@@ -18,6 +17,6 @@ Perhaps in the future I'll write my own, but for now I really like this one.
 # What games do you play?!
 You, you asked. Alright. I mainly play Counter Strike: Global Offensive. I'm (currently) ranked at Supreme Master First Class. I've played Battlefield 4 before, hop in to Minecraft every now and again along with Cities: Skylines.
 
-# Cool, can I come stalk you some place?
-Well, if you insist. My twitter is [@JakeHendy](https://twitter.com/JakeHendy), my GitHub
-account is [JakeHendy](https://www.github.com/JakeHendy). I'll be setting up a LinkedIn at some point.
+# Cool, where else do you hang out online?
+My twitter is [@JakeHendy](https://twitter.com/JakeHendy), my GitHub
+account is [JakeHendy](https://www.github.com/JakeHendy). I'll be setting up a LinkedIn at some point, if you know me personally. 
