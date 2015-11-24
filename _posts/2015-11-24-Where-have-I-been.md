@@ -9,11 +9,17 @@ I kept meaning to write something on here, but never found the time to. Either I
 
 A few things I'd like to write something about:
 
-- Caching
+- **Caching**
+
     Something else I'd like to do is write my own Cache library in both C# and Java. I'd like to get back in to C# and it'll be an interesting challenge.
-- Angular 2.
+
+- **Angular 2**
+
+
     Angular looks to be heading in an interesting direction. I haven't done much Angular before now, so this would be a good learning curve
-- WinJS
+
+- **WinJS**
+
     I like the look of this library a lot. I've always taken a fancy to the Microsoft [Modern Design](https://www.microsoft.com/en-us/stories/design/) principles...  _\[I always get Markdown links wrong :disappointed:\]_
   
 I'd also like to start hacking on Chromium, but I'll have to get my C++ skills up to scratch first. I just need to decide a good topic for a side project! 
