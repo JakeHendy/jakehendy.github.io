@@ -16,7 +16,7 @@ A few things I'd like to write something about:
 - **Angular 2**
 
 
-    Angular looks to be heading in an interesting direction. I haven't done much Angular before now, so this would be a good learning curve
+    Angular looks to be heading in an interesting direction. I haven't done much Angular before now, so this would be a good learning experience
 
 - **WinJS**
 
