@@ -2,6 +2,9 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+gems:
+  - jemoji
+
 # Permalinks
 permalink:        pretty
 
