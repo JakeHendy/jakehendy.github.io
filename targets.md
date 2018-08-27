@@ -4,11 +4,8 @@ title: Targets
 permalink: /targets/
 ---
 
-* Move to my own hosting system (yes, with accompanying blog post)
-* Move to "Jekyll" instead of "GitHub Pages"
-* Move to HTTPS
-    * with _Lets Encrypt_?
-* Stand up a CDN in front
+* [ ] Work more on [`LoadTester32`](https://github.com/JakeHendy/LoadTester32)
+  I wanted to learn some C++ and Win32 at the same time, and Load Testing is a love of mine. 
+* [ ] Do some basic graphics programming (shadertoy!)
+* [ ] Create a program to understand traffic patterns and predict with some machine learning
 
-* Make progress on Honeycomb
-* Make progress on Mocker
