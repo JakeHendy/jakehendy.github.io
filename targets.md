@@ -10,3 +10,4 @@ permalink: /targets/
 * [ ] Create a program to understand traffic patterns and predict with some machine learning
 * [ ] Take LoadTester32 and do something similar with Rust;  _LoadedWithRust_?
 * [ ] Take ~LoadTester32~ LoadedWithRust and do something similar with Go; _GoLoad_?
+* [ ] Blog more than once every 2 years.
