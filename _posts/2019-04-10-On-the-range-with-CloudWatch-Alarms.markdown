@@ -35,7 +35,7 @@ Parameters:
 Resources:
   RDSClusterReaderHighCPUAlarm:
     Type: AWS::CloudWatch::Alarm
-    DependsOn: [ RDSDBInstance1, RDSDBInstance2]
+    DependsOn: [ RDSDBInstance1, RDSDBInstance2 ]
     Properties:
       AlarmName: !Sub "${RDSIdentifier}-rds-cluster-High_CPU"
       AlarmDescription: !Sub >-
