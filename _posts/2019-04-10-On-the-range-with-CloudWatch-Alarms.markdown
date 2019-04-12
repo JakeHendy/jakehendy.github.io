@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the range with CloudWatch Alarms
+title: On the range with CloudWatch Alarms 🚨
 tags: aws, cloudwatch
 ---
 
