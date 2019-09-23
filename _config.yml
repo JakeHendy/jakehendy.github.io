@@ -26,7 +26,7 @@ permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
-emote_theme: "mmistakes/so-simple-theme"
+theme: minima
 gems:
   - jekyll-feed
   - jemoji
