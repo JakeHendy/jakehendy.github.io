@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today's AWS Updates ☁
+title: 23/09's AWS Updates ☁
 tags: aws, aws-updates
 ---
 
