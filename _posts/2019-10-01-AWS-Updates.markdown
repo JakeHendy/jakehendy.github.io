@@ -29,6 +29,7 @@ Providing you're running 1.5.4 or later of the VPC CNI plugin, you too can run y
 
 # New, AWS IQ!
 > AWS IQ is a new service that enables customers to quickly find, engage, and pay AWS Certified third-party experts for on-demand project work. AWS IQ offers video-conferencing, contract management, secure collaboration, and integrated billing.  
+
 This could be very interesting. Reading [Jeff Barr's blog post](https://aws.amazon.com/blogs/aws/aws-iq-get-help-from-aws-certified-third-party-experts-on-demand/) on the topic it reads a bit like a streamlined [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk) specific for AWS services, with AWS ensuring billing and access management are done well between your account group and the contractor.
 Hopefully the requirement for an AWS certification will ensure good quality responses, and that AWS will moderate this.
 Speaking to a industry veteran, hopefully it's not a race-to-the-bottom money-wise and thus quality wise. Time will tell!
