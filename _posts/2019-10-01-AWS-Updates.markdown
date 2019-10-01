@@ -33,5 +33,6 @@ Providing you're running 1.5.4 or later of the VPC CNI plugin, you too can run y
 This could be very interesting. Reading [Jeff Barr's blog post](https://aws.amazon.com/blogs/aws/aws-iq-get-help-from-aws-certified-third-party-experts-on-demand/) on the topic it reads a bit like a streamlined [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk) specific for AWS services, with AWS ensuring billing and access management are done well between your account group and the contractor.
 Hopefully the requirement for an AWS certification will ensure good quality responses, and that AWS will moderate this.
 Speaking to a industry veteran, hopefully it's not a race-to-the-bottom money-wise and thus quality wise. Time will tell!
+**UPDATE:** Sadly at the moment, whilst customers can be global (except China), experts must reside in the United States
 
 That's all for today, do enjoy :) 
