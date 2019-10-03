@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 02/10's AWS Updates ☁
+title: 03/10's AWS Updates ☁
 tags: aws, aws-updates
 ---
 
