@@ -37,18 +37,22 @@ Summarising the [release notes](https://github.com/awslabs/serverless-applicatio
 * Maximum Batching Window property supported for Kinesis and DynamoDB event sources.
 
 # Introducing EC2 M5n, M5dn, R5n, and R5dn instances
-Available in Ireland and Frankfurt, these instance familes mirror their `n`-less sibling families but add that sweet super-Nitro networking.
+Available in Ireland and Frankfurt, these instance familes mirror their `n`-less sibling families but add that sweet super-Nitro networking and [Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2018/11/introducing-elastic-fabric-adapter/) support
+
 The smaller instances of these feature 25Gbps of network bandwidth up to the full 100Gbps on the larger instances. This network bandwdidth is available without any customisation of your kernel or applications- or at least any more than you would by sticking a 100Gbps NIC in 😅.
-As a reminder these are all running Cascade Lake Xeon processors with support for AVX-512 Vector Neural Network Instructions, meaning not only is data transfer to S3 massively improved in terms of speed and parallelism, but also several ML operations. 
+
+As a reminder these are all running Cascade Lake Xeon processors with support for AVX-512 Vector Neural Network Instructions, meaning not only is data transfer to S3 _massively_ improved in terms of speed and parallelism, but also several ML operations. 
 
 # New AWS Public Datasets available
 From Audi's Autonomous Driving Dataset to Kepler Mission Data to SILAM Air Quality from Finnish Meteorological Institute, there's 11 new and updated datasets available covering Astronomy; Biology; Computer Vision; Disaster Response; Environmental; Geospatial; and Healthcare.
 Check the [announcement page](https://aws.amazon.com/about-aws/whats-new/2019/10/new-aws-public-datasets-available/) for more information and deep links.
 
-# Elemental MediaConvert has new features Accelerated Transcoding, DASH, and AVC Video Quality
+# Elemental MediaConvert has new features for Accelerated Transcoding, DASH, and improvements to AVC Video Quality
 Improve video quality when using Advanced Video Coding codecs with improvements to the "Single-pass HQ" and "Multi-pass HQ" pipelines, meaning you can reduce bitrate and maintain the video quality. 
 You can capture JPEG frames in Accelerated Transcoding jobs to generate thumbnails. Additionally you can specify in Accelerated Transcoding a "Preferred" option, where if a job doesn't qualify for Accelerated Transcoding it'll automatically fall back to standard transcoding, as opposed to the previous behaviour of failing the job. 
 The "On Demand" profile is also available to _Dynamic Adaptive Streaming over HTTP_ (DASH) output groups. Change the Media Presentation Description manifest profile and increase compatibility with DASH players and DASH-capable devices. 
+
+# Met Office Autumn Market
 
 Because it's Autumn, feel jealous at this Autumn Market at work. There's so much more <3
 
