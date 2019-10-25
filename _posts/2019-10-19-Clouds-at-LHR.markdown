@@ -4,7 +4,7 @@ title: 19/10's Cloud Landing  ☁
 tags: aws, aws-updates
 ---
 
-Good morning! Welcome to the fourth post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; https://tinyletter.com/CloudsAtLHR, or look at the embed form at the bottom of this post. As always you can send feedback to [@JakeHendy on Twitter](https://twitter.com/JakeHendy) or through any other means you have!
+Good morning! Welcome to the fourth post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; [https://tinyletter.com/CloudsAtLHR](https://tinyletter.com/CloudsAtLHR), or look at the embed form at the bottom of this post. As always you can send feedback to [@JakeHendy on Twitter](https://twitter.com/JakeHendy) or through any other means you have!
 
 What's this, an update on a _Saturday_?!
 I'll be honest I didn't get around to doing it yesterday, so now we can all enjoy both Thursday and Friday night's releases.

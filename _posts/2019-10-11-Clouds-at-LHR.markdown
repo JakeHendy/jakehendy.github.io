@@ -4,7 +4,7 @@ title: 11/10's Cloud Landing  ☁
 tags: aws, aws-updates
 ---
 
-Good morning! Welcome to the first post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; https://tinyletter.com/CloudsAtLHR, or look at the embed form at the bottom of this post.
+Good morning! Welcome to the first post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; [https://tinyletter.com/CloudsAtLHR](https://tinyletter.com/CloudsAtLHR), or look at the embed form at the bottom of this post.
 
 I was worried my first post here would be one or two releases from Amazon, but no! 
 

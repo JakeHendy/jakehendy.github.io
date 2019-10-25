@@ -4,7 +4,7 @@ title: 15/10's Cloud Landing  ☁
 tags: aws, aws-updates
 ---
 
-Good morning! Welcome to the second post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; https://tinyletter.com/CloudsAtLHR, or look at the embed form at the bottom of this post. As always you can send feedback to [@JakeHendy on Twitter](https://twitter.com/JakeHendy) or through any other means you have!
+Good morning! Welcome to the second post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; [https://tinyletter.com/CloudsAtLHR](https://tinyletter.com/CloudsAtLHR), or look at the embed form at the bottom of this post. As always you can send feedback to [@JakeHendy on Twitter](https://twitter.com/JakeHendy) or through any other means you have!
 
 So with no updates applicable to LHR yesterday today—much like the weather in Exeter—isn't looking much more glamorous 🌫🌨 😒
 
