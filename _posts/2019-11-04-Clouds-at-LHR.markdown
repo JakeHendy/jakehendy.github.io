@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 28/10's Cloud Landing  ☁
+title: 04/11's Cloud Landing  ☁
 tags: aws, aws-updates
 ---
 
