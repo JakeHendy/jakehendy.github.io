@@ -6,7 +6,9 @@ tags: aws, aws-updates
 
 Good morning! Welcome to the eigth post in the series that has a name; _Clouds At LHR_. You can also sign up for the newsletter on Tiny Letter; [https://tinyletter.com/CloudsAtLHR](https://tinyletter.com/CloudsAtLHR), or look at the embed form at the bottom of this post. As always you can send feedback to [@JakeHendy on Twitter](https://twitter.com/JakeHendy) or through any other means you have!
 
-It's been a busy week for Amazon (and me, sorry!) so we've got (!) 23 updates available for you from the past 5 days, some big, some small. We've got a whole range of updates, from new instance types to improvements for _your_ customers to wider networking support to support for SQL Server 2019 and oh SO much more.
+It's been a busy week for Amazon (and me, sorry!) so we've got (!) 22 updates available for you from the past 5 days, some big, some small. We've got a whole range of updates, from new instance types to improvements for _your_ customers to wider networking support to support for SQL Server 2019 and oh SO much more.
+
+I'd also like to say a thankyou to Michael Brunton-Spall for his shoutout in [CyberWeekly](https://tinyletter.com/CyberWekly),it's a privilege to be able to work in the Civil Service amongst fantastic colleagues such as Michael and recently-crowned-Hero Matt Lewis, and so so so many others!
 
 If you didn't have something to hand whilst you read this, this is your last chance, because it's a long one and you'll need it!
 
