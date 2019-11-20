@@ -101,9 +101,86 @@ Perfect for baseline loads as well as those that might have small spikes in usag
 
 ### AWS Data Exchange
 
+Following on from enabling API subscriptions in API Marketplace, there's a new service for Data. Qualified (and that's important) providers can offer free and paid products on Marketplace, as well as off-contract products which can be managed separately.
+Providers are able to require approval for subscriptions to maintain compliance and review use cases. Providers can receive daily, weekly, and monthly reports on the products and subscribers' activity.
+
+Consumers can use the API or Console to load data directly in to S3. When a new "revision" of data is made available from a provider, a CloudWatch Event fires enabling the consumer to perform a variety of actions.
+Billing is managed as a line-item on your existing invoice or you can bring external contracts in with the provider.
+
+If you're in the AWS ecosystem this is perfect and allows you to a great amount of flexibility for data ingestion, although I'll be curious to see how the community integrates this with other cloud providers/ecosystems.
+
+Available in London and Ireland!
+
+### Configure table settings from DynamoDB Restore
+
+When restoring a DynamoDB table you can opt to exclude some/all of the local/global secondary indices from being created with the restored table. Opting to exclude these indices can significantly decrease the time it takes for you to import those tables.
+
+You can also change the capacity settings and billing configuraton for the table on import, enabling you to cost-optimise upon restore.
+
+### Easily deploy SQL Server Always On solutions with a new wizard
+
+AWS Launch Wizard for SQL Server enables you to configure a full SQL Server Always On Availability Group, instead of manually configuring the individual resources. You "simply" input your SQL Server requirements from performance to connectivity and the wizard will identify the right resources. Finally the wizard gives you an estimade cost for the AG, and allows you to tweak a few settings before you finally push through.
+One of the best features is that it creates the CloudFormation templates for you to re-use and adjust; so you can avoid all the manual template writing. 
+
+If you're trying to run a SQL Server Availability Group on AWS you _probably_ have some experience so you'll be more than happy to hack around with these templates. If you don't have experience, this is a pretty solid way to start. Win-win right?
+
+Available in London and Ireland!
+
+### AWS CodePipeline Enables Passing Variables between Actions
+
+_Finally_ you can pass variables from one action to another in a pipeline.
+These variables are evaluated at execution time, so you can export a URL from a build job and run tests against it in a later action, or use a Lambda to output variables.
+
+Fantastic. Finally. Avaialble in London and Ireland!
+
+### Automate your operational playbooks with Systems Manager
+
+Add Python or PowerShell scripts to your existing playbooks, add wiki-documentation, and bring Systems Manager centre-stage of your operational play.
+
+If you're not used to writing the JSON/YAML required for Automation then the custom playbook, there's a playbook builder which you can use to learn how it all fits together.
+_Editor's note: I think I'm going to use this to help out our central support team during quick out-of-hours triage_.
+
+Available in London and Ireland!
+
+### GitHub Actions for Elastic Container Services!
+
+There are [four actions](https://github.com/aws-actions) available so far:
+
+* Configure AWS Credentials
+* Log in to ECR
+* Render a task definition (aka put a container image in to a task definition)
+* Deploy a task definition to an ECS Service
+
+What's more, is there is an GitHub Organisation open for these AWS Actons already so I'm hopeful there are more  actions in the pipeline (sorry), and the fantastic [Clare Liguori](https://github.com/clareliguori) is currently behind the four so they're definitely worth taking a look.
+
+What little I've used of GitHub actions I love it, and am looking forward to using these within our GitHub Actions pipeline.
+There's inbuilt support for secrets with GitHub actions so it's ready to go!
+We've got a blog post below which we'll cover, which you should definitely check out.
+
+### Redshift launches cross-instance restore
+
+A recurring theme with AWS is you can't restore to something that isn't exactly like what you backed up from. For Redshift, that's no longer the case; you can restore to different sizes or different node types in either direction. The examples given are beefing up a restore of production data for heavy analysis, or downsizing for a development cluster based upon production data.
+
+Available in all Redshift regions running `1.0.10013` or higher!
+
+### SNS supports Dead-Letter Queues
+
+If SNS was unable to deliver a notification to a subscription enpdoint, SNS will now post a message to an SQS queue for you.
+Alongside the SNS -> SQS integration, you can receive a CloudWatch Alarm for when something has moved in to the Dead Letter Queue, _and_ there are logs to help you troubleshoot the message failure.
+
+You could also set up a DLQ for when your SNS DLQ needs a DLQ. There'll be a blog post below with less snark for you to peruse!
+
+Available in London, Ireland, and every other commercial region!
+
+### WorkSpaces Directory APIs
+
+
+### Export GuardDuty Findings to an S3 Bucket
 
 
 
 ## Blog Posts
 
+### [Aaaand ACTION](https://aws.amazon.com/blogs/opensource/github-actions-aws-fargate/)
 
+### [Dead Letter Queues](https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda/)
