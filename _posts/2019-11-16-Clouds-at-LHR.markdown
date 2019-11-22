@@ -174,13 +174,45 @@ Available in London, Ireland, and every other commercial region!
 
 ### WorkSpaces Directory APIs
 
+This caused some interest. There are now WorkSpace APIs to regsiter your directories and modify other directory details. These details include settings, self-service permissions, and access controls.
+These APIs were available through the console, so it's a curiosity as to why they've only just become available now...
+
+Available in London and Ireland!
 
 ### Export GuardDuty Findings to an S3 Bucket
 
+From your GuardDuty primary account you can now configure GuardDuty to automatically export findings across all the feeding accounts across all regions to one S3 bucket that you own.
+You have to configure the export in each region, but after that you're set. You can then configure this bucket like any other, with backups and long-term retention plans; feeding in to other systems and analysis engines.
 
+Available in London and Ireland!
+
+### AppSync supports pure WebSockets for GraphQL subscriptions
+
+Clients on newer SDKs (as of this week) will now automatically use pure WebSockets to communicate with AWS, as opposed to running MQTT over WebSockets. When using pure WS, there's a higher payload size (240KB vs 128KB), better connection and broadcast rates, as well as enhanced CloudWatch Metrics such as active subscriptions.
+According to the [blog post](https://aws.amazon.com/blogs/mobile/appsync-realtime/) (which we will cover below) the team managed to get to 10.5 Million connected clients. with room to spare!
+
+### Record-level changes on S3 with EMR
+
+With EMR 5.28.0 comes support for Apache Hudi. Hudi is an "open source data management framework" that can simplify incremental data processing and data pipeline development; ultimately enabling you to manage data at the record-level in S3.
+Hudi is automatically installed with Spark, Hive, or Presto when you deploy your EMR cluster.
+
+Hudi can optimise your S3 Datasets for read-heavy or write-heavy operations, managing the underlying data stored on S3 using Apache Parquet or Avro to manage those storage costs and increase efficiency.
+
+Available only in Ireland today, with London coming soon!
+
+### App Mesh default limits increased
+
+Have a total of 200 virtual nodes per mesh, with up to 50 backends per node. 200 total routers, with 50 routes per vritual router.
+If you already have higher limits those will still be in effect.
+These higher defaults should allow you to increase the size of your application without facing too many headaches from the default limits.
+
+Available everywhere App Mesh is available.
 
 ## Blog Posts
 
 ### [Aaaand ACTION](https://aws.amazon.com/blogs/opensource/github-actions-aws-fargate/)
 
 ### [Dead Letter Queues](https://aws.amazon.com/blogs/compute/designing-durable-serverless-apps-with-dlqs-for-amazon-sns-amazon-sqs-aws-lambda/)
+
+
+###  [AppSync with pure WebSockets](https://aws.amazon.com/blogs/mobile/appsync-realtime/)
