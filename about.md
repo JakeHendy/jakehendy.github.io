@@ -18,3 +18,5 @@ If this intrigues you, you can follow me here:
 * [Twitter](https://twitter.com/jakehendy)
 * [Instagram](https://instagram.com/jakehendy)
 * [LinkedIn](https://www.linkedin.com/in/jake-hendy)
+
+You can also buy me a coffee at [kofi](https://ko-fi.com/jakehendy) ☕️. 
