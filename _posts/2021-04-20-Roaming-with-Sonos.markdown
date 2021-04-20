@@ -66,7 +66,7 @@ I have a terrible bug with the Beam where Spotify wouldn't connect from my phone
 
 I guess I can now cast from my phone to the Beam and the Roam. I can feel the wub (you need to feel the wub of course) with the Beam + Sub, but the Roam sounds incredible considering it's so small. Especially considering I'm in the lounge writing this, whilst its in the Kitchen.
 
-## Could it be improved?
+## Could it be improved?
 
 There are two Alexa profiles in this house, and at the moment I can't switch out of my Alexa account. Which is fine, because my account is the one with all the lights installed, but it will get annoying very shortly. I wondered if it was a setup thing that would come through in a couple of hours as it took a couple minutes for Alexa to fully enable, however eight hours later its still the same. "I'm sorry, I can't do that right now" even after being switched off and on.
 
