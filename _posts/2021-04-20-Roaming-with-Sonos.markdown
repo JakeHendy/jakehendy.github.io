@@ -47,7 +47,7 @@ A quick software update later (does anything _not_ come with a Day 0 patch now?)
 ![IMG_2077](https://user-images.githubusercontent.com/545914/115460963-cd2f1480-a220-11eb-8e10-36514583324c.PNG)
 ![IMG_2078](https://user-images.githubusercontent.com/545914/115462355-775b6c00-a222-11eb-82a5-d61166ad1881.PNG)
 
-Less than 10 minutes from unboxing, including taking some poor photos against the sofa, the Sonos is in the Kitchen playing Planet Rock. And then I get an email from Sonos advising me what to do before my Roam gets here
+Less than 10 minutes from unboxing, including taking some poor photos against the sofa, the Sonos is in the Kitchen playing Planet Rock. And then I get an email from Sonos advising me what to do before my Roam gets here... one step ahead of you here Sonos 😅
 
 ![C59DA62D-24EF-4763-83BD-495D3EF086EC](https://user-images.githubusercontent.com/545914/115463050-462f6b80-a223-11eb-9c60-f1b6e96e3179.jpg)
 
