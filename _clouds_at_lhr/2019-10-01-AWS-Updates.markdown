@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 01/10's AWS Updates ☁
 tags: aws, aws-updates
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New trainers
 tags: life, lockdown, fitness
 ---

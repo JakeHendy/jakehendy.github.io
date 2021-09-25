@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bastions on AWS
 tags: aws, architecture
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 30/10's Cloud Landing  ☁
 tags: aws, aws-updates
 ---

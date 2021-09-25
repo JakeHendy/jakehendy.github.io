@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: CD-Okay that's how you do custom resources
 tags: cdk, aws
 ---

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: single
+type: posts
 title: Roaming around with Sonos
 tags: sonos, home, alexa
 ---

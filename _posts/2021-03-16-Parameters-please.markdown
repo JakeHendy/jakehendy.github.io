@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Parameters, please
 tags: aws, iac, jakes-builders-library
 ---

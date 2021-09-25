@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 04/02's Cloud Landing  ☁
 tags: aws, aws-updates
 ---
