@@ -269,6 +269,7 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
@@ -282,9 +283,10 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
+  webrick (~> 1.8)
 
 RUBY VERSION
-   ruby 2.7.2p137
+   ruby 3.2.1p31
 
 BUNDLED WITH
    2.1.4
