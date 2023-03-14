@@ -78,3 +78,6 @@ author:
   avatar   : "https://gravatar.com/avatar/2474815b4ea3cee44ea6d75001460418?s=180"
   bio      : "Technical Lead & Cloud Specialist"
   location : "Devon, United Kingdom"
+
+analytics:
+  provider: custom
