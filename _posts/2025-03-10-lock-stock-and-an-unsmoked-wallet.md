@@ -35,6 +35,8 @@ We're also going to look at different types of stocks; from companies like Googl
 
 There's no real fixed journey for this, but I would like to make money. Safely, with relatively low risk. But life is expensive, and I'm sure as heck not going to get a good following on OnlyFans, so shares it is!
 
+It also serves to help me get better at writing, since I'll have something to write about... will it be interesting? Maybe once or twice. Probably not.
+
 ## Not financial advice!
 
 Now comes the super important bit. This isn't financial advice, you wouldn't take it from me anyway, but it can't hurt to balance out the field right? Any activity you perform after reading my blog is entirely of your own volition. If it works out, great. If it doesn't work out, I'm really sorry.
