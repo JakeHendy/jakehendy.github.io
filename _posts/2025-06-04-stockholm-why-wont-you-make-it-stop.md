@@ -7,7 +7,7 @@ tags: aws, awsconsole
 
 _I'm a little impressed that the Foo Fighters almost sung about this_.
 
-The AWS Console, the ability to control hundreds to thousands of resources across the 27 regions AWS operates in. A single pane of glass for multiple millions of pounds of spending, a UI marvel—at least relative to Microsoft Azure or Google Cloud.
+The AWS Console, the ability to control hundreds to thousands of resources across the ~27~32—36[1] regions AWS operates in. A single pane of glass for multiple millions of pounds of spending, a UI marvel—at least relative to Microsoft Azure or Google Cloud.
 
 If you've been in the AWS Console recently, in a new account or logging in for the first time in a while, you might have noticed you defaulted to the Stockholm `(eu-north-1)` region.
 Even if you typically spend most of your time anywhere else like Ireland or London, or if you're physically located anywhere else; you'll be in Stockholm.
@@ -60,3 +60,5 @@ The last verse of _Arlandria_... if we change Arlandria to Arlanda. Of course, t
 Luckily at work, we block most regions since we've no reason to run in them, so nice big red banners appear everywhere and _most_ people twig they're in the wrong region.
 
 If you don't have SCPs kicking you out though, well, here's hoping you don't panic too hard when you see nothing running.
+
+[1] Yeah I meant to Google this before going live, thinking it couldn't be as high as 27. It's 36 according to Amazon Q or ChatGPT, but 32 if I count in the console.
